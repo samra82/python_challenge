@@ -20,7 +20,7 @@ st.markdown("""
         border: 2px solid #4CAF50; /* Green border */
         color: white;
         background-color: #FFB6B9; /* Peach-pink background */
-        padding: 10px 10px;
+        padding: 8px 8px;
         cursor: pointer;
         transition: all 0.3s ease;
     }
